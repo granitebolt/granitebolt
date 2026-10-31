@@ -8,4 +8,4 @@ Full-service software studio: websites, web and mobile apps, AI tools, automatio
 
 - Live demos of what we build: [granitebolt.com/work](https://granitebolt.com/work/)
 - Start a project: [hello@granitebolt.com](mailto:hello@granitebolt.com) — written fixed quote within 48 hours
-- [granitebolt.com](https://granitebolt.com) · [X](https://x.com/granitebolt) · [Instagram](https://www.instagram.com/granitebolt/)
+- [granitebolt.com](https://granitebolt.com) · [LinkedIn](https://www.linkedin.com/company/granitebolt/) · [X](https://x.com/granitebolt) · [Instagram](https://www.instagram.com/granitebolt/) · [Facebook](https://www.facebook.com/granitebolt)
